@@ -1,0 +1,10 @@
+E:\Downloads\WebDev\Demos\My First Windows Froms App\bin\Debug\My First Windows Froms App.exe.config
+E:\Downloads\WebDev\Demos\My First Windows Froms App\bin\Debug\My First Windows Froms App.exe
+E:\Downloads\WebDev\Demos\My First Windows Froms App\bin\Debug\My First Windows Froms App.pdb
+E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My First Windows Froms App.csproj.AssemblyReference.cache
+E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My_First_Windows_Froms_App.Form1.resources
+E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My_First_Windows_Froms_App.Properties.Resources.resources
+E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My First Windows Froms App.csproj.GenerateResource.cache
+E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My First Windows Froms App.csproj.CoreCompileInputs.cache
+E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My First Windows Froms App.exe
+E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My First Windows Froms App.pdb
