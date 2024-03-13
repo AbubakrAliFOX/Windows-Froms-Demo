@@ -37,5 +37,28 @@ namespace My_First_Windows_Froms_App
         {
             textBox2.Text = textBox1.Text;
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (button3.ForeColor == Color.Black)
+            {
+                button3.ForeColor = Color.Red;
+            } else
+            {
+                button3.ForeColor = Color.Black;
+            }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (this.BackColor == Color.White)
+            {
+                this.BackColor = Color.Red;
+            }
+            else
+            {
+                this.BackColor = Color.White;
+            }
+        }
     }
 }
