@@ -60,5 +60,11 @@ namespace My_First_Windows_Froms_App
                 this.BackColor = Color.White;
             }
         }
+
+        private void form2_Click(object sender, EventArgs e)
+        {
+            Form2 picForm = new Form2();
+            picForm.Show();
+        }
     }
 }

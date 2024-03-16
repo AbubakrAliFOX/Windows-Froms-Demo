@@ -8,3 +8,4 @@ E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My First Windows 
 E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My First Windows Froms App.csproj.CoreCompileInputs.cache
 E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My First Windows Froms App.exe
 E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My First Windows Froms App.pdb
+E:\Downloads\WebDev\Demos\My First Windows Froms App\obj\Debug\My_First_Windows_Froms_App.Form2.resources
